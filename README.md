@@ -5,7 +5,15 @@ Intégration, développement et maintenance d'un ajout pour une application s'ad
 ///////////
 
 Membre du groupe : 
-Sylvain
-Nicolas
-Guillaume
-Pierre
+    - Sylvain [API / Back]
+    - Nicolas [WEB] (Chef de projet)
+    - Guillaume [WEB]
+    - Pierre [Mobile]
+
+///////////
+
+Technologies : 
+
+  ./ Mobile -> Flutter / Android Studio / VSCode 
+  ./ WEB -> Angular / Materialize
+  ./ API
