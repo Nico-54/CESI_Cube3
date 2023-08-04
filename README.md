@@ -15,5 +15,5 @@ Membre du groupe :
 Technologies : 
 
   ./ Mobile -> Flutter / Android Studio / VSCode 
-  ./ WEB -> Angular / Materialize
+  ./ WEB -> VueJS 3
   ./ API
